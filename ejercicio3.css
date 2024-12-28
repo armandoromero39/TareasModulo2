@@ -1,0 +1,47 @@
+.contenedor {
+    display: flex;
+    margin: 0, auto;
+    border: 3px solid black;
+    align-items:center ;
+    justify-content: space-between;
+
+
+}
+
+.rojo {
+    width: 200px;
+    height: 200px;
+
+
+    background-color: #fd0a0a;
+    border-color: #fd0a0a;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.azul {
+    width: 200px;
+    height: 200px;
+
+
+    background-color: #2701fd;
+    border-color: #2701fd;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.verde {
+    width: 200px;
+    height: 200px;
+
+    background-color: #065711;
+    border-color: #065711;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
